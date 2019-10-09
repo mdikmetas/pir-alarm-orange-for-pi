@@ -8,7 +8,7 @@ import os
 import sys
 import blynklib
 
-blynk = blynklib.Blynk('scj8uYdDbHItzwxDiQOYkeBvX99HoZHO')
+blynk = blynklib.Blynk('scj8uYdDbHItjzwxDiQOYkeBvX99HoZHO')
 
 gpio.init()
 hareket = port.PA20
