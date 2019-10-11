@@ -20,7 +20,7 @@ def internet(mailgonder):
     gunvesaat = time.strftime("%d/%m/%Y %H:%M:%S")
     murat = "ehm"
     email = 'ehminternetcafebilgi@gmail.com'
-    password = 'Fatsa052'
+    password = 'fsdfs' şifre
     send_to_email = 'muratdikmetas@gmail.com'
     subject = 'This is the subject' # The subject line
     message = (gunvesaat) +" " + 'Cafede Hareket Var'
